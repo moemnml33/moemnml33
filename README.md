@@ -10,9 +10,9 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **shopping website**
+ 🔭 I’m currently working on **my personal portfolio website**
  
- 🌱 I’m currently learning **React and Web Development**
+ 🌱 I’m currently learning **React and full-stack Development**
 
  💬 Ask me about **Python, Java, HTML, CSS, JS, React... And Music :)**
 

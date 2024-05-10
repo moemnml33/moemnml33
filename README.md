@@ -62,6 +62,7 @@
 <div align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moemnml33&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats&border_radius=15&langs_count=6&size_weight=0.5&count_weight=0.5" />
     <img src="https://github-readme-stats.vercel.app/api?username=moemnml33&show_icons=true&theme=tokyonight&border_radius=15&rank_icon=github&hide=stars" />
+    <img src="https://github-readme-stats.vercel.app/api?username=moemnml33&show_icons=true&theme=tokyonight&border_radius=15&rank_icon=github&hide=stars" />
     <br/>
     
 </div>

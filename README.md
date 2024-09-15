@@ -29,7 +29,7 @@
     <a href="https://www.linkedin.com/in/mohamad-boukaili-9871b5211/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-    <a href="https://linktr.ee/moebooka33" target="_blank">
+    <a href="https://linktr.ee/moebooka_music" target="_blank">
         <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
     </a>
     <a href="https://discordapp.com/users/moebooka33/" target="_blank">
@@ -73,7 +73,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/moebooka33' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/moebooka_music' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>

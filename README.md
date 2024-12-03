@@ -50,8 +50,8 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,sqlite,tailwind,bootstrap,php,mysql" />
-    <img src="https://skillicons.dev/icons?i=java,python,c,clojure,eclipse,vscode,androidstudio,github,git,ableton" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,sequelize,sqlite,tailwind,bootstrap,php" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,mysql,eclipse,vscode,androidstudio,github,git,ableton" /><br>
 </div>
 
 <br/>

@@ -16,7 +16,7 @@
 
  💬 Ask me about **Python, Java, HTML, CSS, JS, React... And Music :)**
 
- 💡 Courses I mastered: ** Web Servers & Applications, Web-based Enterprise Application Design, User Interface Design, Web Programming, Databases, Data Communication and Computer Networks, Artificial Intelligence, Object Oriented Programming, Data Structures & Algorithms, System Hardware, Technical Writing and Communication, Principles of Programming Languages, Operating Systems, Introduction to Formal Methods for Software Engineering, Social and Ethical Dimensions of Information and Communication Technologies, Introduction to Software Engineering, Introduction to Theoretical Computer Science**
+ 💡 Courses I mastered: **Web Servers & Applications, Web-based Enterprise Application Design, User Interface Design, Web Programming, Databases, Data Communication and Computer Networks, Artificial Intelligence, Object Oriented Programming, Data Structures & Algorithms, System Hardware, Technical Writing and Communication, Principles of Programming Languages, Operating Systems, Introduction to Formal Methods for Software Engineering, Social and Ethical Dimensions of Information and Communication Technologies, Introduction to Software Engineering, Introduction to Theoretical Computer Science**
 
 
 

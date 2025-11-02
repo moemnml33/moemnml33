@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamad+Boukaili!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Montreal, and currently a fourth-year computer science student at Concordia University.</h3>
+<h3 align="center">A passionate software developer from Montreal, and a fresh Computer Science graduate from Concordia University!</h3>
 
 <br/>
 
 <div align="left">
  
- 🔭 I’m currently working on **my personal portfolio website**
+ 🔭 I’m currently working on **a Serato to Rekordbox free converter**
  
- 🌱 I’m currently learning **React and full-stack Development**
+ 🌱 I’m currently mastering **React and full-stack Development**
 
- 💬 Ask me about **Python, Java, HTML, CSS, JS, React... And Music :)**
+ 💬 Ask me about **React, Native, Python... And Music :)**
 
  💡 Courses I mastered: **Web Servers & Applications, Web-based Enterprise Application Design, User Interface Design, Web Programming, Databases, Data Communication and Computer Networks, Artificial Intelligence, Object Oriented Programming, Data Structures & Algorithms, System Hardware, Technical Writing and Communication, Principles of Programming Languages, Operating Systems, Introduction to Formal Methods for Software Engineering, Social and Ethical Dimensions of Information and Communication Technologies, Introduction to Software Engineering, Introduction to Theoretical Computer Science**
 
